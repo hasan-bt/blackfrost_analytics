@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include blackfrost_analytics *.css
+recursive-include blackfrost_analytics *.csv
+recursive-include blackfrost_analytics *.html
+recursive-include blackfrost_analytics *.ico
+recursive-include blackfrost_analytics *.js
+recursive-include blackfrost_analytics *.json
+recursive-include blackfrost_analytics *.md
+recursive-include blackfrost_analytics *.png
+recursive-include blackfrost_analytics *.py
+recursive-include blackfrost_analytics *.svg
+recursive-include blackfrost_analytics *.txt
+recursive-exclude blackfrost_analytics *.pyc
