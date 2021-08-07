@@ -7,8 +7,9 @@ def get_data():
 		{
 			"module_name": "Blackfrost Analytics",
 			"color": "black",
-			"icon": "octicon octicon-file-directory",
+			"icon": "fa fa-area-chart",
 			"type": "module",
-			"label": _("Blackfrost Analytics")
+			"label": _("Blackfrost Analytics"),
+			"category": "Modules"
 		}
 	]

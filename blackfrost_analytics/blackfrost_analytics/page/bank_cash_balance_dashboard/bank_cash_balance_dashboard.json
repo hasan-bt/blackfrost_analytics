@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2021-08-08 00:35:57.570746",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2021-08-08 00:36:21.540654",
+ "modified_by": "Administrator",
+ "module": "Blackfrost Analytics",
+ "name": "bank-cash-balance-dashboard",
+ "owner": "Administrator",
+ "page_name": "bank-cash-balance-dashboard",
+ "roles": [
+  {
+   "role": "PowerBI Role"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Bank & Cash Balance Dashboard"
+}
