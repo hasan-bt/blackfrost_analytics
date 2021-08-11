@@ -1,0 +1,90 @@
+{
+ "cards_label": "Dashboards & Masters",
+ "category": "Modules",
+ "charts": [],
+ "creation": "2021-08-08 13:13:07.302394",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "icon": "crm",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Blackfrost Analytics",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Dashboards",
+   "link_to": "Blackfrost Analytics Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Sales Dashboard",
+   "link_to": "sales-dashboard",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Gross Profit Dashboard",
+   "link_to": "gross-profit-dashboard",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Accounts Receivable Dashboard",
+   "link_to": "accounts-receivable-dashboard",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Bank & Cash Balance Dashboard",
+   "link_to": "bank-cash-balance-dashboard",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Settings",
+   "link_to": "Blackfrost Analytics Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Report Integration",
+   "link_to": "Blackfrost Analytics Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2021-08-08 16:32:32.314437",
+ "modified_by": "Administrator",
+ "module": "Blackfrost Analytics",
+ "name": "Blackfrost Analytics",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": []
+}

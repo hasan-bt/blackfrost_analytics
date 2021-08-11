@@ -18,7 +18,6 @@ def execute(filters=None):
 			im.item_group,
 			im.brand,
 			item.stock_qty * ifnull(steam.allocated_percentage, 100) / 100 as stock_qty,
-			item.alt_uom_qty * ifnull(steam.allocated_percentage, 100) / 100 as alt_uom_qty,
 			item.net_amount * ifnull(steam.allocated_percentage, 100) / 100 as net_amount
 		
 		FROM `tabSales Invoice` AS sales
