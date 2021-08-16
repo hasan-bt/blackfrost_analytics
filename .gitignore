@@ -4,3 +4,4 @@
 *.swp
 tags
 blackfrost_analytics/docs/current
+__pycache__
